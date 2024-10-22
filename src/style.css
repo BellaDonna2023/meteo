@@ -73,21 +73,20 @@ weather-app-city {
 }
 
 .weather-app-temperature {
-  font-size: 80px;
+  font-size: 88px;
   font-weight: 700;
-  margin-left: 10px;
-  line-height: 1;
+  line-height: 88px;
   color: black;
 }
 
 .weather-app-icon {
-  font-size: 44px;
-  margin-top: 20px;
+  width: 88px;
+  height: 88px;
 }
 
 .weather-app-unit {
   font-size: 28px;
-  margin-top: 16px;
+  margin-top: 6px;
 }
 
 footer {
